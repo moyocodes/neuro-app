@@ -308,3 +308,7 @@ watch companion would need a native Swift/WatchKit app.
 - Manager/team mode (Dashboard, trust score, task_templates) is present
   but unmaintained relative to the self-serve flow — see that section
   above
+
+## License
+
+All rights reserved. See [LICENSE](LICENSE).
